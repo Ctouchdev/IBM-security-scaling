@@ -1,68 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-
-    <title>Time2Code</title>
-    <link rel="icon" href="/images/code30-clock-icon.png" type="image/icon type">
-    
-    <!-- Google fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,600;1,900&family=Ubuntu:wght@500&display=swap" rel="stylesheet">
-    
-    <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-
-    <link rel='stylesheet' href='stylesheets/styles.css'/>
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-     <!-- Bootstrap Scripts -->
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-
-
-</head>
-
-<body>
-
-    <div class="main-container">
-
-        <div class="heading-pad">
-
-        <div class="heading-container">
-            <h1 class="big-heading" id="h1-landing-pg">When it's Time to Learn, It's Time to Code.</h1>
-        </div>
-
-        </div>
-
-        <div class="center-container">
-
-            <form action="/index" method="post" class="form-signin">
-
-            <div class="center-pad">
-                <img class="logo-rotate logo-grow" src="images/code30-logo.svg" alt="">
-                <hr class="hr-pad">
-                <p class="mb-3 browse-tagline">Store & access your frequently used code snippets & ideas!</p>
-                <hr class="hr-pad">
-            </div>
-
-            <div class="button-signup-container">
-                <button class="button" href="/appid/login" id="login">Sign In&nbsp; | | &nbsp;Create Account</button>
-                <!-- <a class="button" href="/appid/login" id="login">Sign In&nbsp; | | &nbsp;++ Acct</a> -->
-            </div>
-            
-            
-            </form>
-
-        </div>
-
-
-
-
-        <div class="laptop-container">
-            <!-- <img class="code30-laptop" src="images/Code30-Laptop-animate2.svg" alt=""> -->
-
-            <?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 372 568.5" style="enable-background:new 0 0 372 568.5;" xml:space="preserve">
@@ -101,27 +37,27 @@
 	.st31{fill:url(#SVGID_20_);}
 	.st32{fill:url(#SVGID_21_);}
 	.st33{opacity:0.8;}
-	.st34{fill:none;stroke:#ffffff;stroke-width:2.2;}
-	.st35{fill:none;stroke:#ffffff;stroke-width:2.2;}
-	.st36{fill:none;stroke:#ffffff;stroke-width:2.2;}
-	.st37{fill:none;stroke:#ffffff;stroke-width:2.2;}
-	.st38{fill:none;stroke:#ffffff;stroke-width:2.2;}
-	.st39{fill:none;stroke:#ffffff;stroke-width:2.2;}
-	.st40{fill:none;stroke:#ffffff;stroke-width:2.2;}
+	.st34{fill:none;stroke:#42E8E0;stroke-width:2.2;stroke-miterlimit:10;}
+	.st35{fill:none;stroke:#42E8E0;stroke-width:2.2;stroke-miterlimit:10;stroke-dasharray:4.0671,3.0503;}
+	.st36{fill:none;stroke:#42E8E0;stroke-width:2.2;stroke-miterlimit:10;stroke-dasharray:12.2012,2.0335,4.0671,3.0503;}
+	.st37{fill:none;stroke:#42E8E0;stroke-width:2.2;stroke-miterlimit:10;stroke-dasharray:8.2911,2.4873,2.0728,8.2911;}
+	.st38{fill:none;stroke:#42E8E0;stroke-width:2.2;stroke-miterlimit:10;stroke-dasharray:7.94,3.97,11.9101,2.9775;}
+	.st39{fill:none;stroke:#42E8E0;stroke-width:2.2;stroke-miterlimit:10;stroke-dasharray:11.9101,9.9251,7.94,3.97,11.9101,2.9775;}
+	.st40{fill:none;stroke:#42E8E0;stroke-width:2.2;stroke-miterlimit:10;stroke-dasharray:5.8037,6.9645,2.3215,5.8037;}
 	
-		.st41{fill:none;stroke:#ffffff;stroke-width:2.2;}
+		.st41{fill:none;stroke:#42E8E0;stroke-width:2.2;stroke-miterlimit:10;stroke-dasharray:10.6817,3.5606,6.231,4.4507,6.231,10.6817;}
 	
-		.st42{fill:none;stroke:#ffffff;stroke-width:2.2;}
-	.st43{fill:none;stroke:#ffffff;stroke-width:2.2;}
-	.st44{fill:none;stroke:#ffffff;stroke-width:2.2;}
+		.st42{fill:none;stroke:#42E8E0;stroke-width:2.2;stroke-miterlimit:10;stroke-dasharray:8.8506,2.9502,5.1629,3.6878,5.1629,8.8506;}
+	.st43{fill:none;stroke:#42E8E0;stroke-width:2.2;stroke-miterlimit:10;stroke-dasharray:20.3922,6.1177,5.0981,20.3922;}
+	.st44{fill:none;stroke:#42E8E0;stroke-width:2.2;stroke-miterlimit:10;stroke-dasharray:3.4936,6.9872,3.4936,3.4936;}
 	
-		.st45{fill:none;stroke:#ffffff;stroke-width:2.2;}
-	.st46{fill:none;stroke:#ffffff;stroke-width:2.2;}
-	.st47{fill:none;stroke:#ffffff;stroke-width:2.2;}
+		.st45{fill:none;stroke:#42E8E0;stroke-width:2.2;stroke-miterlimit:10;stroke-dasharray:5.5871,2.7936,1.3968,1.9555,3.3523,5.5871;}
+	.st46{fill:none;stroke:#42E8E0;stroke-width:2.2;stroke-miterlimit:10;stroke-dasharray:18.71,5.613,4.6775,18.71;}
+	.st47{fill:none;stroke:#42E8E0;stroke-width:2.2;stroke-miterlimit:10;stroke-dasharray:16.0618,9.6371,4.0155,2.4093;}
 	
-		.st48{fill:none;stroke:#ffffff;stroke-width:2.2;}
-	.st49{fill:none;stroke:#ffffff;stroke-width:2.2;}
-	.st50{fill:none;stroke:#ffffff;stroke-width:2.2;}
+		.st48{fill:none;stroke:#42E8E0;stroke-width:2.2;stroke-miterlimit:10;stroke-dasharray:4.0155,12.0464,16.0618,9.6371,4.0155,2.4093;}
+	.st49{fill:none;stroke:#42E8E0;stroke-width:2.2;stroke-miterlimit:10;stroke-dasharray:5.7892,6.947,2.3157,5.7892;}
+	.st50{fill:none;stroke:#42E8E0;stroke-width:2.2;stroke-miterlimit:10;stroke-dasharray:6.947,2.3157,5.7892,6.947,2.3157,5.7892;}
 </style>
 <g id="back-art">
 	<g id="back-art-clip">
@@ -998,22 +934,3 @@
 	</g>
 </g>
 </svg>
-
-
-
-
-        </div>
-
-
-
-
-
-    </div>
-
-    <footer class="footer-container">
-        <p class="copywrite-text">&copy; theIBMapprentice</p>
-    </footer>
-
-</body>
-
-</html>
